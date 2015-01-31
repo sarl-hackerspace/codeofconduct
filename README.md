@@ -1,7 +1,7 @@
 codeofconduct
 =============
 
-####Code for America's Code of Conduct
+#### Code_for_NoVA_s_Code_of_Conduct extends Code_for_America_s_Code_of_Conduct 
 
 The Code for America community expects that Code for America network activities, events, and digital forums:
 
@@ -38,7 +38,7 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at [EVENT ORGANIZER/FORUM ADMINISTRATOR EMAIL AND PHONE NUMBER]. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at michelle@codeforamerica.org, as well feel free to talk to Michelle at any Code for NoVA event. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
